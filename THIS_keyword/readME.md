@@ -19,7 +19,6 @@ const person {
 }
 person.greet()
 ```
-
 ##  How It Works in the Background
 1. Global context : 
 > in browser : `this` -> `window` object
